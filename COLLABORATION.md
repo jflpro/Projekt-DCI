@@ -40,3 +40,4 @@ Jedes Mitglied (Daniel, Andi, Tom, Michi, Florian, Merkito, Jeff) ist eingeladen
 - **Aktiv im Geist des Lernens und der gegenseitigen Unterstützung zusammenzuarbeiten**
 
 Dieses Rahmenwerk ermöglicht es, das Projekt gemeinsam zu bereichern und die Netzwerkarchitektur entsprechend den Fähigkeiten und Innovationen jedes Einzelnen weiterzuentwickeln.
+
